@@ -1,0 +1,7 @@
+{
+  "name": "stocktake",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
